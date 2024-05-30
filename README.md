@@ -1,15 +1,9 @@
-![Data Science](https://github.com/Abdelrahman-Kanakri/Data-Science-and-AI/assets/99169170/128c0bb7-1184-4bea-bd05-9d3f4a67359c)
+![Deep Learning](https://github.com/Abdelrahman-Kanakri/Data-Science-and-AI/assets/99169170/b1e334f1-e87a-43fc-8185-a823701e5051)
 
 # Data-Science-&-AI
-**Here you can find everything related to AI**
 
-this repository contains **AI** and **Data Science** project which can enrich your knowledge
 
-*Note: select a branch to view a file*
-
-<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A passionate Data scientist and artificial intelligence engineer from Jordan</h3>
-
+### this repository contains ***Deep Learning*** projects using *CNN*, *RNN* and etc.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdelrahman-kanakri-909654247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-kanakri-90965424" height="30" width="40" /></a>
