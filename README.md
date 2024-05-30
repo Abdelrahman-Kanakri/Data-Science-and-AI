@@ -5,7 +5,7 @@
 
 this repository contains **AI** and **Data Science** project which can enrich your knowledge
 
-*Note: select a branch to view a file*
+*Note: select a branch to view any file*
 
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h3 align="center">A passionate Data scientist and artificial intelligence engineer from Jordan</h3>
