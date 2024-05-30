@@ -1,14 +1,8 @@
-![Data Science](https://github.com/Abdelrahman-Kanakri/Data-Science-and-AI/assets/99169170/128c0bb7-1184-4bea-bd05-9d3f4a67359c)
+![inbox_11240972_d4494d0e4afa6e44be39c8e37cee8922_1_cG6U1qstYDijh9bPL42e-Q](https://github.com/Abdelrahman-Kanakri/Data-Science-and-AI/assets/99169170/6fbba34d-c300-445b-8032-4dd09a87e1b4)
 
 # Data-Science-&-AI
-**Here you can find everything related to AI**
 
-this repository contains **AI** and **Data Science** project which can enrich your knowledge
-
-*Note: select a branch to view a file*
-
-<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A passionate Data scientist and artificial intelligence engineer from Jordan</h3>
+### this repository contains ***Machine Learning*** projects include *Regression*, *Classification* and *Clustering*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
