@@ -2,7 +2,7 @@
 
 # Data-Science-&-AI
 
-### this repository contains ***Machine Learning*** projects include *Regression*, *Classification* and *Clustering*.
+### this repository contains ***Machine Learning*** projects include *Regression*, *Classification*, *Clustering* *CNN*, *RNN*, more and more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
