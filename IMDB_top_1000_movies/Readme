@@ -1,0 +1,16 @@
+Here is how to view each file.
+
+there is around 5 files:
+  - 6Final_report file.
+  - Imdb_raw.csv file which is the data I have worked on.
+  - Cleaned_Data.csv file which is the preprocessed data I used in my dashboard and datafolio phase.
+  - imdb-top-1000-movies.ipynb python file where the work is.
+  - Dashboard & Datafolio where you will need to see in order to get a quick view on the project
+
+
+So to able to see the Final_report, Dashboard & Datafolio files just download it.
+
+these links are the all works:
+ - Kaggle: https://www.kaggle.com/code/aboodai/imdb-top-1000-movies
+ - Google Drive files: https://drive.google.com/drive/folders/17ZOV4QkdSOmacVw9VGSYU2N3aU_WfkFP
+ - Looker Studio Dashboard: https://lookerstudio.google.com/u/0/reporting/f842a977-3717-47ab-ad62-487e2469f9b0/page/UKGiE
