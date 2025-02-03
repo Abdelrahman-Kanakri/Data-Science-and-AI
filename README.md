@@ -1,11 +1,8 @@
-![Data Science](https://github.com/Abdelrahman-Kanakri/Data-Science-and-AI/assets/99169170/128c0bb7-1184-4bea-bd05-9d3f4a67359c)
+![llm-applications-main](https://github.com/user-attachments/assets/7b70b125-7570-4b07-8e93-5c59517a6803)
 
 # Data-Science-&-AI
-**Here you can find everything related to AI**
 
-this repository contains **AI** and **Data Science** project which can enrich your knowledge
-
-*Note: select a branch to view any file*
+This repository contains **LLM** projects and **NLP** tasks, focusing on language modeling, text processing, and AI-driven applications. It includes projects on text classification, named entity recognition (NER), sentiment analysis, chatbot development, and fine-tuning LLMs. The repository also showcases data preprocessing, tokenization, embeddings (Word2Vec, BERT, etc.), and model evaluation techniques to build efficient and scalable NLP solutions.
 
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h3 align="center">A passionate Data scientist and artificial intelligence engineer from Jordan</h3>
