@@ -3,9 +3,8 @@
 # Data-Science-&-AI
 **Here you can find everything related to AI**
 
-this repository contains **AI** and **Data Science** project which can enrich your knowledge
-
-*Note: select a branch to view any file*
+This repository contains Data Science projects that showcase data analytical skills, and visualization techniques.
+Each project includes data preprocessing, feature engineering, with clear documentation and reproducible code.
 
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h3 align="center">A passionate Data scientist and artificial intelligence engineer from Jordan</h3>
