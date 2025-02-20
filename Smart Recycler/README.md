@@ -61,5 +61,5 @@ The dataset will be utilized to train AI models for waste identification and cat
 [5- Steps to download](https://colab.research.google.com/drive/1h8BPJrdp0Gc2icWTKRWPEIMwQ2T_Ng7s?usp=drive_link)
 
 ## Team Members LinkedIn:
-[Abdelrahman Kanakri](linkedin.com/in/abdelrahman-kanakri-909654247/)
-[Abdelrahman Al Ramadneh](linkedin.com/in/abdalrhman-youssef-al-ramadneh-27bb7631a/)
+[Abdelrahman Kanakri](https://www.linkedin.com/in/abdelrahman-kanakri-909654247/)
+[Abdelrahman Al Ramadneh](https://www.linkedin.com/in/abdalrhman-youssef-al-ramadneh-27bb7631a/)
