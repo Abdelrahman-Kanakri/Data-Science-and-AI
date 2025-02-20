@@ -56,7 +56,7 @@ The dataset will be utilized to train AI models for waste identification and cat
 
 [3- Classification Model](https://www.kaggle.com/code/aboodai/smart-recycling)
 
-[4- LLM Model](https://colab.research.google.com/drive/1EMUXI6256EgfqdGlu1Dy2NhV1v5qbYFS?usp=drive_link)
+[4- LLM Model](https://colab.research.google.com/drive/1lxfnj51T5AB2ApjA-qm1W8-tC7gfQKrG?usp=drive_link)
 
 [5- Steps to download](https://colab.research.google.com/drive/1h8BPJrdp0Gc2icWTKRWPEIMwQ2T_Ng7s?usp=drive_link)
 
