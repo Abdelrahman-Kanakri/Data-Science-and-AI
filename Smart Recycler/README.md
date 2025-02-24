@@ -63,4 +63,4 @@ The dataset will be utilized to train AI models for waste identification and cat
 ## Team Members LinkedIn:
 [Abdelrahman Kanakri](https://www.linkedin.com/in/abdelrahman-kanakri-909654247/)
 [Abdelrahman Al Ramadneh](https://www.linkedin.com/in/abdalrhman-youssef-al-ramadneh-27bb7631a/)
-[Motaz Almomeny](linkedin.com/in/motaz-almomani-1b577a332/)
+[Motaz Almomeny](https://www.linkedin.com/in/motaz-almomani-1b577a332/)
