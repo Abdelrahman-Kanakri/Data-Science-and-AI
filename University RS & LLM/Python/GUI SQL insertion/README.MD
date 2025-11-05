@@ -22,6 +22,7 @@ This Python application creates a graphical user interface (GUI) using `Tkinter`
 ### 1. **Imports**
 
 ```python
+python
 import tkinter as tk
 import mysql.connector
 
