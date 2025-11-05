@@ -1,5 +1,5 @@
 # 🎓 Study Plan Supervisor
-
+[Project Link](https://colab.research.google.com/drive/1GupuPAedDMZmsX-94PMj91FWdwgIb6dv?usp=drive_link)
 > An intelligent advisor that guides students on which courses to take next based on their academic history.
 
 ## 1. Project Description
