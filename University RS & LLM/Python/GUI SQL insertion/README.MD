@@ -22,8 +22,6 @@ This Python application creates a graphical user interface (GUI) using `Tkinter`
 ### 1. **Imports**
 
 ```python
-python
-CopyEdit
 import tkinter as tk
 import mysql.connector
 
@@ -46,8 +44,6 @@ The function `insert_data()` is responsible for collecting the user's input, con
 The user input is collected from various fields using the `get()` method:
 
 ```python
-python
-CopyEdit
 course_id = entry_course_id.get()
 dept_id = entry_dept_id.get()
 course_name = entry_course_name.get()
@@ -64,8 +60,6 @@ Each input field corresponds to a specific column in the table that the user wil
 ### 2.2 **Connecting to the Database**
 
 ```python
-python
-CopyEdit
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
@@ -82,8 +76,6 @@ A connection to the MySQL database is established using the `mysql.connector.con
 Based on the selected table, the columns and values are determined dynamically. Here, if the user selects `Cys_dept`, `SE_dept`, or `DS_AI_dept`, the columns and corresponding values are set accordingly:
 
 ```python
-python
-CopyEdit
 if table_name == "Cys_dept":
     columns = ["course_id", "dept_id", "course_name", "course_desc", "prerequisite_name", "prerequisite_number", "requirement_type", "number_of_hours"]
     values = (course_id, dept_id, course_name, course_desc, prerequisite_name, prerequisite_number, requirement_type, number_of_hours)
@@ -93,8 +85,6 @@ if table_name == "Cys_dept":
 The query is then constructed dynamically:
 
 ```python
-python
-CopyEdit
 query = f"INSERT INTO {table_name} ({', '.join(columns)}) VALUES ({', '.join(['%s'] * len(values))})"
 
 ```
@@ -104,8 +94,6 @@ The `INSERT INTO` query is formatted with placeholders (`%s`) for the values, en
 ### 2.4 **Executing the Query**
 
 ```python
-python
-CopyEdit
 cursor = conn.cursor()
 cursor.execute(query, values)
 
@@ -116,8 +104,6 @@ A cursor is created using `conn.cursor()`, and the `execute()` method is called 
 ### 2.5 **Committing Changes**
 
 ```python
-python
-CopyEdit
 conn.commit()
 
 ```
@@ -127,8 +113,6 @@ The `commit()` method is used to apply the changes to the database. Without call
 ### 2.6 **Closing the Connection**
 
 ```python
-python
-CopyEdit
 conn.close()
 
 ```
@@ -140,8 +124,6 @@ The connection to the database is closed to free up resources.
 ### 3.1 **Main Window**
 
 ```python
-python
-CopyEdit
 root = tk.Tk()
 root.title("Add Data to Table")
 
@@ -152,8 +134,6 @@ A `Tk` object is created as the main window of the application. The `title()` me
 ### 3.2 **Dropdown Menu for Table Selection**
 
 ```python
-python
-CopyEdit
 table_options = ["Cys_dept", "SE_dept", "DS_AI_dept"]
 table_selection = tk.StringVar(root)
 table_selection.set(table_options[0])
@@ -169,8 +149,6 @@ A dropdown menu is created for the user to select the table where they want to i
 For each piece of data, an entry field is created. For example:
 
 ```python
-python
-CopyEdit
 label_course_id = tk.Label(root, text="Course ID:")
 label_course_id.pack()
 entry_course_id = tk.Entry(root)
@@ -183,8 +161,6 @@ These labels and entry fields allow the user to enter data for each column.
 ### 3.4 **Submit Button**
 
 ```python
-python
-CopyEdit
 button_insert = tk.Button(root, text="Add Data", command=insert_data)
 button_insert.pack()
 
@@ -195,8 +171,6 @@ A button is created to trigger the `insert_data()` function when clicked.
 ### 3.5 **Success/Error Message**
 
 ```python
-python
-CopyEdit
 label_message = tk.Label(root, text="")
 label_message.pack()
 
@@ -207,8 +181,6 @@ A label is created to display success or error messages after the data insertion
 ### 4. **Running the Application**
 
 ```python
-python
-CopyEdit
 root.mainloop()
 
 ```
