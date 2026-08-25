@@ -50,15 +50,13 @@ The dataset will be utilized to train AI models for waste identification and cat
 
 
 # More Details
-[1- Full Documentation](https://drive.google.com/file/d/1xpWdECWMbRQAEOizebGeLm6leUaowxyN/view?usp=drive_link)
+[1- Full Documentation](https://drive.google.com/file/d/10WVtf59R4EfIG-j4eCFd3X3PbgTDMpUt/view?usp=drive_link)
 
-[2- Project Plan](https://drive.google.com/file/d/1CpmO5vc7xcrgDvdW6tNydCOkR6VCDd1b/view?usp=drive_link)
+[2- Project Plan](https://drive.google.com/file/d/1dOaHUX7M3jkpY12QoXDDeQ0oujbWEuHI/view?usp=drive_link)
 
 [3- Classification Model](https://www.kaggle.com/code/aboodai/smart-recycling)
 
-[4- LLM Model](https://colab.research.google.com/drive/1lxfnj51T5AB2ApjA-qm1W8-tC7gfQKrG?usp=drive_link)
-
-[5- Steps to download](https://colab.research.google.com/drive/1h8BPJrdp0Gc2icWTKRWPEIMwQ2T_Ng7s?usp=drive_link)
+[4- Steps to download](https://drive.google.com/file/d/1dLRbChpVmgjhzZLALfqBbRn7_KZFiUk-/view?usp=sharing)
 
 ## Team Members LinkedIn:
 [Abdelrahman Kanakri](https://www.linkedin.com/in/abdelrahman-kanakri-909654247/)
